@@ -53,6 +53,7 @@ export class XPlayer {
   /**
    * The Server ID for a given player
    */
+   charid:number;
   source: number;
   accounts: Account[]
   coords: Coords
